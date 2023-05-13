@@ -1,0 +1,15 @@
+1. Component[User Interaction]
+2. Container[Store Components together]
+3. Layout [arrangemet of COmponents inside of Container]
+
+4. Listener(interface)[   // ActionListener 
+   1) with Component[Click Here] ,  //Click Here Button 
+     ==>	objectComponent.addNameListener(Listener Object);//  
+	
+NameListener => NameEvent
+		
+   2) to catch User Action[Click] //Click
+   3) send to methods( parameter )  [parameter =>Event Class]
+	[parameter =>Event Class]
+	[parameter =>ActionEvent e]  -->reAction
+	 	
